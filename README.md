@@ -5,4 +5,6 @@
 3. Are
 4. In
 5. The first commit
+6. But
+7. Deleted
 
