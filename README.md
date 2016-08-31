@@ -8,3 +8,9 @@
 6. But
 7. Deleted
 
+1. THESE
+2. LINES
+3. ARE
+4. ADDED
+5. AS
+6. A NEW FEATURE :tada:
